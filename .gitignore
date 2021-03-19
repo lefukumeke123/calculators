@@ -1,0 +1,6 @@
+# Files to ignore
+
+#Intelij specifiic
+
+/.idea/
+*.iml
